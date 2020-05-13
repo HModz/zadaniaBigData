@@ -1,3 +1,5 @@
+#ilosc liczb parzystych 1-200
+
 suma = 0
 
 for i in range(1,201):

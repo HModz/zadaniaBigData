@@ -1,3 +1,5 @@
+#ilosc iphone'a do kupienia
+
 zasoby = float(input("Podaj ilość gotówki: "))
 cena_iphone = 1500
 szt = zasoby // cena_iphone

@@ -1,3 +1,5 @@
+#zapis funkcji kwadratowej
+
 a = float(input("Podaj wartość a: "))
 b = float(input("Podaj wartość b: "))
 c = float(input("Podaj wartość b: "))

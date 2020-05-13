@@ -1,3 +1,5 @@
+#silnia
+
 liczba = int(input("Podaj liczbę:"))
 silnia = 1
 

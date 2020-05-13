@@ -1,3 +1,5 @@
+#dzielniki liczby
+
 liczba = int(input("Podaj liczbę:"))
 
 for i in range(1, liczba+1):

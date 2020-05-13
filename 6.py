@@ -1,3 +1,4 @@
+#liczby pierwsze
 
 for liczba in range(2,101):
     x = 0
