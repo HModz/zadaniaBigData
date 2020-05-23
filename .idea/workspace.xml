@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0d10e84d-ea30-48b1-8e59-2df7f2ff1ec5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Szyfr Cezara/cezar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Szyfr Cezara/tekst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,28 +51,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.16">
-    <configuration name="12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="zadanie1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.cezar">
     <configuration name="13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zadanie1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,13 +136,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="cezar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="zadanie1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Szyfr Cezara" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Szyfr Cezara/cezar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.cezar" />
         <item itemvalue="Python.16" />
         <item itemvalue="Python.15" />
         <item itemvalue="Python.14" />
         <item itemvalue="Python.13" />
-        <item itemvalue="Python.12" />
       </list>
     </recent_temporary>
   </component>
@@ -173,35 +192,58 @@
       <option name="project" value="LOCAL" />
       <updated>1590242544606</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="zadanie 16">
+      <created>1590246602491</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590246602491</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1-14" />
     <MESSAGE value="zadanie 15" />
-    <option name="LAST_COMMIT_MESSAGE" value="zadanie 15" />
+    <MESSAGE value="zadanie 16" />
+    <option name="LAST_COMMIT_MESSAGE" value="zadanie 16" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1590242544446">
+    <state x="428" y="198" width="566" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590247277894">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="320" y="27" width="912" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1590242544446" />
-    <state width="1276" height="175" key="GridCell.Tab.0.bottom" timestamp="1590246563055">
+    <state x="428" y="198" width="566" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1590247277894" />
+    <state x="320" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1590246723293">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1590246563055" />
-    <state width="1276" height="175" key="GridCell.Tab.0.center" timestamp="1590246563055">
+    <state x="320" y="27" width="912" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1590246723293" />
+    <state width="1276" height="175" key="GridCell.Tab.0.bottom" timestamp="1590250003791">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1590246563055" />
-    <state width="1276" height="175" key="GridCell.Tab.0.left" timestamp="1590246563055">
+    <state width="1276" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1590250003791" />
+    <state width="1276" height="175" key="GridCell.Tab.0.center" timestamp="1590250003791">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1590246563054" />
-    <state width="1276" height="175" key="GridCell.Tab.0.right" timestamp="1590246563055">
+    <state width="1276" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1590250003791" />
+    <state width="1276" height="175" key="GridCell.Tab.0.left" timestamp="1590250003790">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1590246563055" />
+    <state width="1276" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1590250003790" />
+    <state width="1276" height="175" key="GridCell.Tab.0.right" timestamp="1590250003791">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1590250003791" />
     <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1590242552340">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
