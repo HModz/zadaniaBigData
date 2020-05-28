@@ -1,13 +1,20 @@
-#lista studentow
+# lista studentow
 
-lista = open("lista.txt", "w+")
 q = ""
 lista_studentow = []
 
-while True:
-  student = input("Podaj Imię Nazwisko Grupe (q aby zakończyć): ")
-  if student == 'q':
-    break
-  lista_studentow.append(student)
+lista = open("lista.txt", "a+")
+lista = open("lista.txt", "r")
+print(lista.read())
+lista.close()
 
-print(lista_studentow)
+while True:
+    student = input("Nowy student: Imię Nazwisko Grupa (q aby zakończyć): ")
+    if student == 'q':
+        break
+    lista_studentow.append(student)
+
+lista = open("lista.txt", "a+")
+lista.write("\n".join(lista_studentow))
+lista.write("\n")
+lista.close()
