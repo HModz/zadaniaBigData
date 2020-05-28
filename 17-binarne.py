@@ -1,0 +1,1 @@
+# przekształcanie liczb na system binarny
