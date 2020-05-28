@@ -20,22 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d10e84d-ea30-48b1-8e59-2df7f2ff1ec5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista/lista.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-f.kwadratowa.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.py" beforeDir="false" afterPath="$PROJECT_DIR$/10-powtorzenia.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.py" beforeDir="false" afterPath="$PROJECT_DIR$/11-mniejszeod23.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.py" beforeDir="false" afterPath="$PROJECT_DIR$/12-sumaDoKwadratu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13.py" beforeDir="false" afterPath="$PROJECT_DIR$/13-min.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-iphone.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-przyspiewka.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.py" beforeDir="false" afterPath="$PROJECT_DIR$/4-silnia.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.py" beforeDir="false" afterPath="$PROJECT_DIR$/5-dzielnik.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.py" beforeDir="false" afterPath="$PROJECT_DIR$/6-pierwsze.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.py" beforeDir="false" afterPath="$PROJECT_DIR$/7-parzyste.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.py" beforeDir="false" afterPath="$PROJECT_DIR$/8-szyfr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.py" beforeDir="false" afterPath="$PROJECT_DIR$/9-szyfrOdTylu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17-binarne.py" beforeDir="false" afterPath="$PROJECT_DIR$/17-binarne.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,28 +50,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.lista">
-    <configuration name="15-dna" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="zadanie1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15-dna.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.17-binarne">
     <configuration name="16-palindrom" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zadanie1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,6 +64,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16-palindrom.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="17-binarne" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="zadanie1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17-binarne.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.17-binarne" />
         <item itemvalue="Python.lista" />
         <item itemvalue="Python.6-pierwsze" />
         <item itemvalue="Python.cezar" />
         <item itemvalue="Python.16-palindrom" />
-        <item itemvalue="Python.15-dna" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590250382326</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="lista + zmiana nazw">
+      <created>1590679822278</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590679822278</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -239,40 +232,41 @@
     <MESSAGE value="zadanie 15" />
     <MESSAGE value="zadanie 16" />
     <MESSAGE value="Szyfr Cezara" />
-    <option name="LAST_COMMIT_MESSAGE" value="Szyfr Cezara" />
+    <MESSAGE value="lista + zmiana nazw" />
+    <option name="LAST_COMMIT_MESSAGE" value="lista + zmiana nazw" />
   </component>
   <component name="WindowStateProjectService">
     <state x="428" y="198" width="566" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590247277894">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="428" y="198" width="566" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1590247277894" />
-    <state x="320" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1590679554780">
+    <state x="320" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1590679822133">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="320" y="27" width="912" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1590679554780" />
-    <state width="1276" height="175" key="GridCell.Tab.0.bottom" timestamp="1590678128990">
+    <state x="320" y="27" width="912" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1590679822133" />
+    <state width="1276" height="175" key="GridCell.Tab.0.bottom" timestamp="1590683582767">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1590678128990" />
-    <state width="1276" height="175" key="GridCell.Tab.0.center" timestamp="1590678128989">
+    <state width="1276" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1590683582767" />
+    <state width="1276" height="175" key="GridCell.Tab.0.center" timestamp="1590683582766">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1590678128989" />
-    <state width="1276" height="175" key="GridCell.Tab.0.left" timestamp="1590678128989">
+    <state width="1276" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1590683582766" />
+    <state width="1276" height="175" key="GridCell.Tab.0.left" timestamp="1590683582766">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1590678128989" />
-    <state width="1276" height="175" key="GridCell.Tab.0.right" timestamp="1590678128990">
+    <state width="1276" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1590683582766" />
+    <state width="1276" height="175" key="GridCell.Tab.0.right" timestamp="1590683582767">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1590678128990" />
-    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1590250389394">
+    <state width="1276" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1590683582767" />
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1590679832174">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1590250389394" />
-    <state x="484" y="316" width="458" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590679528823">
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1590679832174" />
+    <state x="484" y="316" width="458" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590679790563">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="484" y="316" width="458" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1299.741@67.27.1299.741" timestamp="1590679528823" />
+    <state x="484" y="316" width="458" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1299.741@67.27.1299.741" timestamp="1590679790563" />
   </component>
 </project>
