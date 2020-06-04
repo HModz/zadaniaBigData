@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d10e84d-ea30-48b1-8e59-2df7f2ff1ec5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/18-emoji.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18-liczbyTrojkatne.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mutant/mutant.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19-basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19-macierz.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,28 +51,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.mutant">
-    <configuration name="17-binarne" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="zadanie1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17-binarne.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.19-basic">
     <configuration name="18-emoji" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zadanie1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lista" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="19-basic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zadanie1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +102,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lista" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista/lista.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19-basic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="19-macierz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="zadanie1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19-macierz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.19-basic" />
+        <item itemvalue="Python.19-macierz" />
         <item itemvalue="Python.mutant" />
         <item itemvalue="Python.18-emoji" />
         <item itemvalue="Python.18-liczbyTrojkatne" />
-        <item itemvalue="Python.17-binarne" />
-        <item itemvalue="Python.lista" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591205740347</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="mutant + emoji">
+      <created>1591211788847</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1591211788847</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -258,40 +264,57 @@
     <MESSAGE value="lista + zmiana nazw" />
     <MESSAGE value="lista" />
     <MESSAGE value="binarne" />
-    <option name="LAST_COMMIT_MESSAGE" value="binarne" />
+    <MESSAGE value="mutant + emoji" />
+    <option name="LAST_COMMIT_MESSAGE" value="mutant + emoji" />
   </component>
   <component name="WindowStateProjectService">
     <state x="428" y="198" width="566" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590247277894">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="428" y="198" width="566" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1590247277894" />
-    <state x="320" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1591205740167">
+    <state x="320" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1591211788732">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="320" y="27" width="912" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1591205740167" />
-    <state width="1276" height="175" key="GridCell.Tab.0.bottom" timestamp="1591211162017">
+    <state x="320" y="27" width="912" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1591211788732" />
+    <state width="1276" height="175" key="GridCell.Tab.0.bottom" timestamp="1591297615738">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1591211162017" />
-    <state width="1276" height="175" key="GridCell.Tab.0.center" timestamp="1591211162016">
+    <state width="1276" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1591297615738" />
+    <state width="1276" height="175" key="GridCell.Tab.0.center" timestamp="1591297615737">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1591211162016" />
-    <state width="1276" height="175" key="GridCell.Tab.0.left" timestamp="1591211162015">
+    <state width="1276" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1591297615737" />
+    <state width="1276" height="175" key="GridCell.Tab.0.left" timestamp="1591297615737">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1591211162015" />
-    <state width="1276" height="175" key="GridCell.Tab.0.right" timestamp="1591211162016">
+    <state width="1276" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1591297615737" />
+    <state width="1276" height="175" key="GridCell.Tab.0.right" timestamp="1591297615738">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1591211162016" />
-    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1591205743606">
+    <state width="1276" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1591297615738" />
+    <state width="1276" height="219" key="GridCell.Tab.1.bottom" timestamp="1591296489492">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1591205743606" />
-    <state x="484" y="316" width="448" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591205721011">
+    <state width="1276" height="219" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1591296489492" />
+    <state width="1276" height="219" key="GridCell.Tab.1.center" timestamp="1591296489491">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="484" y="316" width="448" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1299.741@67.27.1299.741" timestamp="1591205721011" />
+    <state width="1276" height="219" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1591296489491" />
+    <state width="1276" height="219" key="GridCell.Tab.1.left" timestamp="1591296489490">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="219" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1591296489490" />
+    <state width="1276" height="219" key="GridCell.Tab.1.right" timestamp="1591296489492">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="219" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1591296489492" />
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1591211792698">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1591211792698" />
+    <state x="484" y="316" width="458" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591211764707">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="484" y="316" width="458" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1299.741@67.27.1299.741" timestamp="1591211764707" />
   </component>
 </project>
