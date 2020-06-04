@@ -1,7 +1,10 @@
 import random
+import time
 
-n = int(input("Podaj N: "))
-m = int(input("Podaj M: "))
+n = int(input("Podaj M: "))
+m = int(input("Podaj N: "))
+
+start = time.time()
 
 m1 = []
 m2 = []
@@ -29,4 +32,4 @@ for macierz2 in m2:
 print("Suma:")
 for suma in s:
     print(str(suma))
-
+print(f"Czas wykonania kodu: {time.time() - start} s")
